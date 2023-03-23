@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 23 Mar 2023 02:05:09 at https://rascalsthemes.com/demo/meloo/demo1/home-hip-hop/ https://rascalsthemes.com/demo/meloo/demo1/artists/noisa/ https://rascalsthemes.com/demo/meloo/demo1/music/sick-music/ https://rascalsthemes.com/demo/meloo/demo1/events-grid-1/ https://rascalsthemes.com/demo/meloo/demo1/events/voice-from-the-stone/ https://rascalsthemes.com/demo/meloo/demo1/posts-page-builder-blocks/posts-block-1/ https://rascalsthemes.com/demo/meloo/demo1/gallery-grid-2/ https://rascalsthemes.com/demo/meloo/demo1/gallery/amsterdam-dance/ https://rascalsthemes.com/demo/meloo/demo1/shop/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr3C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://rascalsthemes.com/demo/meloo/demo1/home-hip-hop/ https://rascalsthemes.com/demo/meloo/demo1/artists/noisa/ https://rascalsthemes.com/demo/meloo/demo1/music/sick-music/ https://rascalsthemes.com/demo/meloo/demo1/events-grid-1/ https://rascalsthemes.com/demo/meloo/demo1/events/voice-from-the-stone/ https://rascalsthemes.com/demo/meloo/demo1/posts-page-builder-blocks/posts-block-1/ https://rascalsthemes.com/demo/meloo/demo1/gallery-grid-2/ https://rascalsthemes.com/demo/meloo/demo1/gallery/amsterdam-dance/ https://rascalsthemes.com/demo/meloo/demo1/shop/ -O1 "C:\Users\blue_\OneDrive\Desktop\SeanRiot_site\seanriot3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:06:26	Error: 	"Not Found" (404) at link https://rascalsthemes.com/demo/meloo/demo1/music/sick-music/feed/ (from https://rascalsthemes.com/demo/meloo/demo1/music/sick-music/)
+02:06:26	Error: 	"Not Found" (404) at link https://rascalsthemes.com/demo/meloo/demo1/events/voice-from-the-stone/feed/ (from https://rascalsthemes.com/demo/meloo/demo1/events/voice-from-the-stone/)
+02:06:29	Warning: 	File not parsed, looks like binary: https://rascalsthemes.com/demo/meloo/demo1/wp-content/plugins/revslider/public/assets/css/openhand.cur
+02:06:29	Warning: 	File not parsed, looks like binary: https://rascalsthemes.com/demo/meloo/demo1/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 21 seconds : 173 links scanned, 170 files written (12754233 bytes overall) [9469928 bytes received at 116912 bytes/sec], 4318905 bytes transferred using HTTP compression in 74 files, ratio 17%, 14.5 requests per connection
+(2 errors, 2 warnings, 0 messages)

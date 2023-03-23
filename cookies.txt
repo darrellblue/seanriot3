@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+rascalsthemes.com	TRUE	/demo/meloo/demo1/	FALSE	1999999999	woocommerce_items_in_cart	1
+rascalsthemes.com	TRUE	/demo/meloo/demo1/	FALSE	1999999999	wp_woocommerce_session_ca2ec7c56abbe67020393505c1466bc6	t_b94656d00bf97906901b769b7b6154%7C%7C1679727959%7C%7C1679724359%7C%7Ca5444d8149d145026c0637ee20c6c18c
+rascalsthemes.com	TRUE	/demo/meloo/demo1/	FALSE	1999999999	woocommerce_cart_hash	b6d22a1e23d67d393914b18df56eeac4
+
